@@ -4,4 +4,4 @@ def sum(a):
 	for i in a:
 		sumA += i 
 	return sumA
-print sum(a)
+print(sum(a))
